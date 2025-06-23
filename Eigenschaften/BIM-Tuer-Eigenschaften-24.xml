@@ -1,0 +1,2721 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<BuildingInformation>
+	<Classification>
+		<System>
+			<Name>ARCHICAD Klassifizierung</Name>
+			<EditionVersion>24</EditionVersion>
+			<EditionDate>
+				<Year>2018</Year>
+				<Month>5</Month>
+				<Day>31</Day>
+			</EditionDate>
+			<Description/>
+			<Source>www.archicad.de</Source>
+			<Items>
+				<Item>
+					<ID>Bauelement - beliebig</ID>
+					<Name/>
+					<Description/>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Balken / Unterzug</ID>
+					<Name/>
+					<Description/>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Bekleidung / Belag</ID>
+					<Name/>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>Abgehängte Decke</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Dachdeckung</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Dämmung</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Deckenbekleidung</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Fußbodenaufbau</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Hülle</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Membran</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Verkleidung</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>Dach</ID>
+					<Name/>
+					<Description/>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Decke</ID>
+					<Name/>
+					<Description/>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Fassade</ID>
+					<Name/>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>Fassade Paneel</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Fassade Profil</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>Fenster</ID>
+					<Name/>
+					<Description/>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Fundament</ID>
+					<Name/>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>Bodenplatte / Flachgründung</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Punktfundament</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Streifenfundament</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Tiefgründung</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>Geländegeometrie</ID>
+					<Name/>
+					<Description/>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Geländer</ID>
+					<Name/>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>Geländer Handlauf</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Geländer Paneel</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Geländer Pfosten</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>Leuchte</ID>
+					<Name/>
+					<Description/>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Möbel</ID>
+					<Name/>
+					<Description/>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Rampe</ID>
+					<Name/>
+					<Description/>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Raum</ID>
+					<Name/>
+					<Description/>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Durchbrüche / Schlitze</ID>
+					<Name/>
+					<Description/>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Stütze</ID>
+					<Name/>
+					<Description/>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Treppe</ID>
+					<Name/>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>Treppen Lauf</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Treppen Podest</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Treppen Setzstufe</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Treppen Trittstufe</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>Tür</ID>
+					<Name/>
+					<Description/>
+					<Children/>
+				</Item>
+				<Item>
+					<ID>Wand</ID>
+					<Name/>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>Elementwand</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Vorwand / Installationswand</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>Transport Elemente</ID>
+					<Name/>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>Aufzug</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Rollsteig</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Rolltreppe</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>Haustechnische Komponente (allgemein)</ID>
+					<Name/>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>Komponente der Gebäudeautomation (allgemein)</ID>
+							<Name/>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>Aktor</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Alarm / Gefahrenmelder</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Regler</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Messinstrument (allgemein)</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Sensor</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>Komponente der TGA (allgemein)</ID>
+							<Name/>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>Schacht / Graben / Revisionsschacht</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>Energiewandler</ID>
+									<Name/>
+									<Description/>
+									<Children>
+										<Item>
+											<ID>Befeuchter</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Einbaufertige Anlage</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Elektrogenerator</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Elektromotor</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Heiz-Kühlelemente</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Heizkessel</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Heizkörper</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Kältemaschine</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Kondensator</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Kühlbalken</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Kühlturm</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Motoranschluss</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Rohrbündel</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Transformator</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Verdampfer</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Verdunstungskühler</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Wärmerückgewinner</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Wärmetauscher</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+									</Children>
+								</Item>
+								<Item>
+									<ID>Regler (allgemein)</ID>
+									<Name/>
+									<Description/>
+									<Children>
+										<Item>
+											<ID>Elektrische Zeitsteuerung</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Elektrischer Verteilungspunkt</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Regelklappe</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Schalter</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Sicherung</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Ventil</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Volumenstromregler</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Zähler (allgemein)</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+									</Children>
+								</Item>
+								<Item>
+									<ID>Verbinder / Formstück (allgemein)</ID>
+									<Name/>
+									<Description/>
+									<Children>
+										<Item>
+											<ID>Kabelträger Passstück</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Kanalverbinder</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Rohrverbinder</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Verbindungsdose</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+									</Children>
+								</Item>
+								<Item>
+									<ID>Strömungsmaschine (allgemein)</ID>
+									<Name/>
+									<Description/>
+									<Children>
+										<Item>
+											<ID>Kompressor</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Pumpe</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Ventilator</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+									</Children>
+								</Item>
+								<Item>
+									<ID>Verteiler (allgemein)</ID>
+									<Name/>
+									<Description/>
+									<Children>
+										<Item>
+											<ID>Kabelsegment</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Kabelträgersegment</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Kanal</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Rohr</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+									</Children>
+								</Item>
+								<Item>
+									<ID>Speicher (allgemein)</ID>
+									<Name/>
+									<Description/>
+									<Children>
+										<Item>
+											<ID>Elektrisches Speichergerät</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Tank</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+									</Children>
+								</Item>
+								<Item>
+									<ID>Endgerät (allgemein)</ID>
+									<Name/>
+									<Description/>
+									<Children>
+										<Item>
+											<ID>Ablauf / Abscheider</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Dose / Steckdose</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Elektrisches Gerät</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Elektroheizung</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Feuerlöscheinrichtung</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Gas-Terminal</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Lampe/Leuchtmittel</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Luftauslass</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Rohrabdeckung</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+										<Item>
+											<ID>Sanitäreinrichtung</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+									</Children>
+								</Item>
+								<Item>
+									<ID>Filter</ID>
+									<Name/>
+									<Description/>
+									<Children>
+										<Item>
+											<ID>Kanalschalldämpfer</ID>
+											<Name/>
+											<Description/>
+											<Children/>
+										</Item>
+									</Children>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>Tragwerk</ID>
+					<Name/>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>Befestigungsmittel</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Bewehrungsmatte</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Bewehrungsstab</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Mechanisches Befestigungsmittel</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Spannglied</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Spanngliedanker</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Stab / Stabträger</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+					</Children>
+				</Item>
+				<Item>
+					<ID>Teil eines Bauelements</ID>
+					<Name/>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>Element Zusammenstellung</ID>
+							<Name/>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>Zusatzgerät / Einbauteil</ID>
+							<Name/>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>Vibrationsdämpfer</ID>
+									<Name/>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>
+			</Items>
+		</System>
+	</Classification>
+	<PropertyDefinitionGroups>
+		<PropertyDefinitionGroup>
+			<Name>BIM-Tür Grundeinstellungen</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Tuer_Versionsnummer</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_ xxx_Typ</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Nutzungsart</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Bauteil</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Benennung _Bauabschnitt</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Freigabe</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Aussentuer</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>Boolean</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="BoolVariant">
+							<Status>Normal</Status>
+							<Value>false</Value>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Fluchtrichtung</Name>
+					<Description>zur Bandgegenseite</Description>
+					<ValueDescriptor Type="EnumerationValueDescriptor" Version="2">
+						<EnumerationValueDescriptorWithStoredValues>
+							<ValueType>3</ValueType>
+							<Values>
+								<Key>B50F6CFD-3BE3-3E4B-86EC-1D152A20D92F</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>zur Bandseite</Value>
+									</Variant>
+								</Value>
+								<Key>3E418A81-4068-884B-8141-E30C3C872E75</Key>
+								<Value Empty="false">
+									<Variant Type="StringVariant">
+										<Status>Normal</Status>
+										<Value>zur Bandgegenseite</Value>
+									</Variant>
+								</Value>
+							</Values>
+						</EnumerationValueDescriptorWithStoredValues>
+						<HasMultiValue>false</HasMultiValue>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="GuidVariant">
+							<Status>Normal</Status>
+							<Value>B50F6CFD-3BE3-3E4B-86EC-1D152A20D92F</Value>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Gewerk</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_LV-Kennung</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Bezeichnung</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Fassadentyp</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Systemachse_vertikal</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Systemachse_horizontal</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Detail-Nr</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Komponente_Set_Nummer</Name>
+					<Description>Zurodnung der Tür zu einem definierten Ausstattungsset:
+Set-Nummer; ( Deklarierung der betreffenden Komponenten zum Set im BIM-Objekt)</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+		<PropertyDefinitionGroup>
+			<Name>BIM-Tür Beteiligte</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Beteiligung_Bauherr_Status</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Beteiligung_Architekt_Status</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Beteiligung_Elektroplan_Status</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Beteiligung_Brandschutzplan_Status</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Beteiligung_Sicherheitsplan_Status</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Beteiligung_TGA_Plan_Status</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Planverweis_Elektro</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Planverweis_Montageplan</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Planverweis_Leitungsplan Elektro</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+		<PropertyDefinitionGroup>
+			<Name>BIM-Tür Funktionen</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Tuer_Abschluss_Sicherheitsbereich</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Steuerung_Tuerzustand</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_weitere_Anforderungen</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+		<PropertyDefinitionGroup>
+			<Name>BIM-Tür Abmessungen + Einbausituation</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Tuer_Durchgangsbreite_Nutzbar_Gangfluegel</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Durchgangsbreite_Nutzbar</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Durchgangshoehe_Nutzbar</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Wand_1_Belag_Bezugsraum</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Wand_1_Belag_Bezugsraum Staerke</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Wand_1_Belag_Sekundaerraum</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Wand_1_Belag_Sekundaerraum_Staerke</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Bodenhoehe_Bezugsraum</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuer_Bodenhoehe_Sekundaerraum</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+		<PropertyDefinitionGroup>
+			<Name>BIM-Tür Zarge</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Tuer_Fugenbreite_Schattennut</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Seitenteile_Oberlicht_Produkt_Typ</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Oberlicht_Rahmen-Material</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Oberlicht_Material</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Oberlicht_Oberflaeche_BS</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Oberlicht_Farbe nach Muster_BS</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Oberlicht_OberflaecheBGS</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Oberlicht_Farbe nach Muster_BGS</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+		<PropertyDefinitionGroup>
+			<Name>BIM-Tür Blatt</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Dichtung_Boden_Produkttyp</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuerblatt_Ausschnitte</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Tuerblatt_Ausstattung</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+		<PropertyDefinitionGroup>
+			<Name>BIM-Tür Beschläge</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>Schloss_Gebrauchskategorie_Klasse</Name>
+					<Description>oE;1;2;3 (Wohnhaus; Büro; Öffentl.)</Description>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Schloss_Funktion</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Schliesszylinder_VdS Klasse</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Schliesszylinder_Identifikationsart</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Schliessgruppe</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Druecker_Gebrauchskategorie_Klasse</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>DrückerTypspezifikation BS</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>DrückerTypspezifikation BGS</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Band_Tragfaehigkeitsklasse</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+		<PropertyDefinitionGroup>
+			<Name>BIM-Tür Eigenschaften</Name>
+			<PropertyDefinitions>
+				<PropertyDefinition>
+					<Name>System_Brandmeldeanlage</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Komponente_Schluesselschalter Feuerw.</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Komponente_WandmelderRauch BS</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Komponente_DeckenmelderRauch BS</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>FluchttuerSteuerung_Klasse</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>FluchttuerSteuerung_Produkt_Typ</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>FluchttuerSteuerung_Produkt_Spezifikation</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>FluchttuerTerminal_ProduktTyp</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>FluchttuerSteuerung_Vernetzung</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>FluchttuerSteuerung_LAN_Anschluss</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>FluchttuerVerriegelung_ProduktTyp</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>FluchttuerNottaster_ProduktTyp</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>System_Zutrittskontrollsystem</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>ZuKo_Produkt_Typ</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>ZuKo_Produkt_Spezifikation</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Zutrittskontrolle_Vernetzung</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Identifikationsmodul</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>System_Kommunikationsanlage</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Telefon_Wandmontage</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>TMS-Steuerung_Produkt_Spezifikation</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>System_Einbruchmeldeanlage</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>System_Videoueberwachung</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>System_Warentransportsystem</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>System_Schließanlage</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>System_Entrauchungsanlage</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Komponente_Kabeluebergang</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>TuerKplt_Anschlusswert_Spannung</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+				<PropertyDefinition>
+					<Name>Komponente_Tuerstopper</Name>
+					<Description/>
+					<ValueDescriptor Type="SingleValueDescriptor">
+						<ValueType>String</ValueType>
+					</ValueDescriptor>
+					<MeasureType>Default</MeasureType>
+					<DefaultValue>
+						<DefaultValueType>Basic</DefaultValueType>
+						<Variant Type="StringVariant">
+							<Status>Normal</Status>
+							<Value/>
+						</Variant>
+					</DefaultValue>
+					<ClassificationIDs>
+						<ClassificationID>
+							<ItemID>Tür</ItemID>
+							<SystemIDName>ARCHICAD Klassifizierung</SystemIDName>
+							<SystemIDVersion>24</SystemIDVersion>
+						</ClassificationID>
+					</ClassificationIDs>
+				</PropertyDefinition>
+			</PropertyDefinitions>
+		</PropertyDefinitionGroup>
+	</PropertyDefinitionGroups>
+</BuildingInformation>
