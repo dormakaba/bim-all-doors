@@ -1,2 +1,2 @@
 # bim-all-doors
-BIM-Tool für Archicad
+Türenkonfigurator / BIM-Tool für Archicad
