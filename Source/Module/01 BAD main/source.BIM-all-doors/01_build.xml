@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Symbol IsArchivable="false" IsPlaceable="false" MigrationValue="Normal" Owner="0" Signature="1146313037" UNID="{E1DA1925-92DB-402E-BB92-8E4D74689143}-{FDD963F0-0A74-4D2F-B039-EC944AD117FB}" Version="36">
+<Symbol IsArchivable="false" IsPlaceable="true" MigrationValue="Normal" Owner="0" Signature="1146313037" UNID="{E1DA1925-92DB-402E-BB92-8E4D74689143}-{FDD963F0-0A74-4D2F-B039-EC944AD117FB}" Version="36">
   <!-- GDL SCRIPT ===== GDL SCRIPT ===== GDL SCRIPT ===== GDL SCRIPT ===== GDL SCRIPT -->
   <Script_3D SectVersion="20" SectionFlags="0" SubIdent="0"><![CDATA[<!-- insert:30_3D-Script.gdl -->]]></Script_3D>
   <!-- GDL SCRIPT ===== GDL SCRIPT ===== GDL SCRIPT ===== GDL SCRIPT ===== GDL SCRIPT -->

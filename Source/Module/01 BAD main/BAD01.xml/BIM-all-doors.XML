@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Symbol IsArchivable="false" IsPlaceable="false" MigrationValue="Normal" Owner="0" Signature="1146313037" UNID="{E1DA1925-92DB-402E-BB92-8E4D74689143}-{FDD963F0-0A74-4D2F-B039-EC944AD117FB}" Version="36">
+<Symbol IsArchivable="false" IsPlaceable="true" MigrationValue="Normal" Owner="0" Signature="1146313037" UNID="{E1DA1925-92DB-402E-BB92-8E4D74689143}-{FDD963F0-0A74-4D2F-B039-EC944AD117FB}" Version="36">
   <!-- GDL SCRIPT ===== GDL SCRIPT ===== GDL SCRIPT ===== GDL SCRIPT ===== GDL SCRIPT -->
   <Script_3D SectVersion="20" SectionFlags="0" SubIdent="0"><![CDATA[
 DEFINE MATERIAL "schwarz" 2, 0,0,0
@@ -3452,7 +3452,7 @@ format = "" : sts = REQUEST ("Working_length_unit", "",format)   ! Format für U
 		babel[14] = "MONITORING DOOR STATE"
 		babel[15] = "MINIMAL DIMENSIONS"
 		babel[16] = "Besuchen sie uns auf github (Link unten). Hier finden sie Anleitungen, \ndie jeweils neueste Version und hilfreiches Bonusmaterial:"
-		babel[17] = "www.bim-all-doors.de"
+		babel[17] = "github.com"
 		babel[18] = "The functional requirements may differ from properties of the component, if the component fullfills at least the requierements."
 		babel[19] = "The protection requirements can differ from the qualities of the components, if the component fullfills at least the requierements."
 		babel[20] = "Fire protection:"
@@ -5701,7 +5701,7 @@ END
 	IF develop THEN GOSUB "devshow" ELSE GOSUB "allshow"
 	UI_PICT 2, 316,-2 , 139,15, 1
 	UI_SEPARATOR 0,15, 456,15
-	UI_PICT_BUTTON UI_LINK, "", "uiTab_Info.png", 458,-5 , 22,22, 0, "http://www.bim-all-doors.de" UI_TOOLTIP "Homepage »bim-all-doors«"
+	UI_PICT_BUTTON UI_LINK, "", "uiTab_Info.png", 458,-5 , 22,22, 0, "https://github.com/dormakaba/bim-all-doors" UI_TOOLTIP "Homepage »bim-all-doors«"
 	RETURN
 
 
