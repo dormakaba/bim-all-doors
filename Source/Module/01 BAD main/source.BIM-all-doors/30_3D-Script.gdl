@@ -97,7 +97,7 @@ GOSUB "startposition"
 IF dk_wallhole_control THEN
 
 	x = ac_wallhole_width
-	y = ac_wallhole_height
+	y = ac_wallhole_height_original
 
 	! #### Loch schneiden
 	msk = 1+2+4  + 8+16
